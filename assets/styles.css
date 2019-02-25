@@ -1,0 +1,8 @@
+body{
+    background-color: #000000;
+}
+.img{
+    position: absolute;
+    top: 35%;
+    left: 35%;
+}
